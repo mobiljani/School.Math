@@ -1,0 +1,19 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+#content div {
+    padding: 5px;
+}
+
+#content span {
+    width: 45px;
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+}
+
+#content span.op {
+    width: 15px;
+
+}
